@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 5555,
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 2,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 650000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/balloodle-catz",
   "SHOW_BACKGROUND": true
