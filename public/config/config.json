@@ -9,9 +9,9 @@
   "NFT_NAME": "Balloodle Catz",
   "SYMBOL": "BCZ",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 2000000000000000000,
-  "DISPLAY_COST": 2,
-  "GAS_LIMIT": 1000000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 620157,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/balloodle-catz",
   "SHOW_BACKGROUND": true
